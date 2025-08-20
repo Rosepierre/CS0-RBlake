@@ -6,7 +6,7 @@
 | Instructor: | Corin Chepko |
 | Mav Username: | Rcblake |
 | GitHub Username: | Rosepierre |
-| Repository | Rosepierre/CS0-RBlake |
+| Repository | https://github.com/Rosepierre/CS0-RBlake |
 _______________________________________________________________________________________________________________
 # Assignments
 ## Homework #1
