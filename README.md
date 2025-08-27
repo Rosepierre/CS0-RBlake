@@ -27,5 +27,5 @@ ________________________________________________________________________________
 | Description: | FIXME |
 | Due Date: | FIXME |
 | Status: | FIXME (In Progress, Finished, Not Started, etc...) |
-| Location: | <provide github link to assignment once you've pushed it> |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/tree/main/Labs/Labs%20Me/stdio/ascii |
 | Notes: | FIXME |
