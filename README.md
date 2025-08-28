@@ -23,9 +23,9 @@ ________________________________________________________________________________
 ## Lab #1
 | Name | Value |
 | --- | --- |
-| Name: | FIXME |
-| Description: | FIXME |
-| Due Date: | FIXME |
-| Status: | FIXME (In Progress, Finished, Not Started, etc...) |
+| Name: | ASCII 1 |
+| Description: | ASCII art completion and learning about input functions. |
+| Due Date: | 8/29/25 |
+| Status: | Finished |
 | Location: | https://github.com/Rosepierre/CS0-RBlake/tree/main/Labs/Labs%20Me/stdio/ascii |
-| Notes: | FIXME |
+| Notes: | An extra darth vader at the bottom for fun |
