@@ -29,3 +29,15 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Rosepierre/CS0-RBlake/tree/main/Labs/Labs%20Me/stdio/ascii |
 | Notes: | An extra darth vader at the bottom for fun |
+
+_______________________________________________________________________________________________________________
+## Lab #2
+| Name | Value |
+| --- | --- |
+| Name: | ASCII 2 |
+| Description: | ASCII art completion focus on centering all inputs. |
+| Due Date: | 9/4/25 |
+| Status: | Finished |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/tree/main/Labs/Labs%20Me/stdio/ascii |
+| Notes: | Added a yes no function to the ending with two pieces of extra art depending on the input |
+
