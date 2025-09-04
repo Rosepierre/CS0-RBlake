@@ -90,7 +90,7 @@ print(treeA_8.center(left_width) + asterics.center(center_width)+ treeB_8.center
 # # Note: You can add more lines or print differt ASCII arts of your choice if you'd like...
 
 
-yes_no = input("Would you like to proceed? It may be a trap.\n")
+yes_no = input("Would you like to proceed? It may be a trap.\n ")
 while yes_no.lower() != 'yes' and yes_no.lower()!= 'no':
     yes_no = input("Yes or no please. ")
 if yes_no.lower() == 'yes':
