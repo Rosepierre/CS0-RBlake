@@ -38,6 +38,6 @@ ________________________________________________________________________________
 | Description: | ASCII art completion focus on centering all inputs. |
 | Due Date: | 9/4/25 |
 | Status: | Finished |
-| Location: | https://github.com/Rosepierre/CS0-RBlake/tree/main/Labs/Labs%20Me/stdio/ascii |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Labs%20Me/stdio/ascii2/main.py |
 | Notes: | Added a yes no function to the ending with two pieces of extra art depending on the input |
 
