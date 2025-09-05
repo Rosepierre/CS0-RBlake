@@ -12,12 +12,12 @@ ________________________________________________________________________________
 ## Homework #1
 | Name | Value |
 | --- | --- |
-| Name: | FIXME |
-| Description: | FIXME |
-| Due Date: | FIXME |
-| Status: | FIXME (In Progress, Finished, Not Started, etc...) |
-| Location: | <provide github link to assignment> |
-| Notes: | In Progress|
+| Name: | stdio |
+| Description: | 4 Ascii animals with a while loop |
+| Due Date: | 9/10/25 |
+| Status: | FINISHED |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Assignments/stdio/stdio.py |
+| Notes: | qux |
 _______________________________________________________________________________________________________________
 # Labs
 ## Lab #1
