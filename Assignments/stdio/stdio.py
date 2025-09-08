@@ -1,4 +1,5 @@
-#A nice tour of my friendly zoo (ASCII), using a while loop to pause between. 
+#Roger Blake 9/5/25
+#A nice tour of my friendly zoo (ASCII), using a while loop to pause between. Simple ASCII all stored as variables then later printed when prompted. 
 print("Welcome to my art exihbit!")
 play_name = input("\nPlease enter your name. ") 
 
