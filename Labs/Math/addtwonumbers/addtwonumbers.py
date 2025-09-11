@@ -34,10 +34,10 @@ def main():
     a = int(a)
     # FIXED 3: convert string b into integer
     b = int(b)
-    # FIXME 4: add two numbers and store the result into ans variable
+    # FIXED 4: add two numbers and store the result into ans variable
     result = (a + b)
 
-    # FIXME 5: print the answer as shown in the sample output
+    # FIXED 5: print the answer as shown in the sample output
     print(result)
 
     """Main function that solves the problem
