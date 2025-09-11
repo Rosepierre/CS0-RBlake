@@ -41,3 +41,22 @@ ________________________________________________________________________________
 | Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Labs%20Me/stdio/ascii2/main.py |
 | Notes: | Added a yes no function to the ending with two pieces of extra art depending on the input |
 
+## Lab #2a
+| Name | Value |
+| --- | --- |
+| Name: | addtwonumbers |
+| Description: | Simple program to add two numbers |
+| Due Date: | 9/12/25 |
+| Status: | Finished |
+| Location: |https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Math/addtwonumbers/addtwonumbers.py |
+| Notes: | qux |
+
+## Lab #2b
+| Name | Value |
+| --- | --- |
+| Name: | Circle Lab |
+| Description: | Calculates the Circumference of a circle with given radius. |
+| Due Date: | 9/12/25 |
+| Status: | Finished |
+| Location: |https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Math/Circle%20Lab/Circlelab.py |
+| Notes: | qux |
