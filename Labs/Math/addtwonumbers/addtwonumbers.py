@@ -25,11 +25,7 @@ import sys
 
 
 def main():
-    """Main function that solves the problem
-    """
-
-    # FIXME1 - read input data into a variable #fixed#
-    line = input()
+    line = input("Please enter the two numbers you wish to add: ")
     # split the data into two numbers
     a, b = line.split()
     # check to see if the data is split correctly
@@ -44,5 +40,10 @@ def main():
     # FIXME 5: print the answer as shown in the sample output
     print(result)
 
+    """Main function that solves the problem
+    """
+
+    # FIXME1 - read input data into a variable #fixed#
+    
 
 main()  # call main function
