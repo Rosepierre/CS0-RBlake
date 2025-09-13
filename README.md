@@ -26,7 +26,7 @@ ________________________________________________________________________________
 | Description: | Calculate the Area of a triangle with 3 given sides |
 | Due Date: | 9/16/25 |
 | Status: | FINISHED |
-| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Assignments/stdio/stdio.py |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Math/Triangle/Triangle.py |
 | Notes: | qux |
 _______________________________________________________________________________________________________________
 # Labs
