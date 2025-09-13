@@ -25,7 +25,9 @@ c = float(c)
 S = (a + b + c)/2
 S = float(S)
 Perimeter = (a + b + c)
+print(a, b, c, S)
 #Herons formula for area
+#Remember you can't square root a negative so the formula doesn't work for every triangle
 Area = math.sqrt(S*(S-a)*(S-b)*(S-c))
 #printing the results
 print("The area of the triangle is: ", Area)
@@ -34,4 +36,4 @@ print("The Perimeter of the triangle is:", Perimeter)
 if(a + b > c) or (a + c > b) or (b + c > a ):
     print("This triangle is real.")
 else:
-    print("this is not a triangle")
+    print("This is not a real triangle.")
