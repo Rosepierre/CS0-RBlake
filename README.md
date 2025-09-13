@@ -18,6 +18,16 @@ ________________________________________________________________________________
 | Status: | FINISHED |
 | Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Assignments/stdio/stdio.py |
 | Notes: | qux |
+
+## Homework #2
+| Name | Value |
+| --- | --- |
+| Name: | Triangle |
+| Description: | Calculate the Area of a triangle with 3 given sides |
+| Due Date: | 9/16/25 |
+| Status: | FINISHED |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Assignments/stdio/stdio.py |
+| Notes: | qux |
 _______________________________________________________________________________________________________________
 # Labs
 ## Lab #1
