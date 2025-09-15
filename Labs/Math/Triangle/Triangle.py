@@ -1,3 +1,4 @@
+#Roger Blake Triangle Homework 9/15/25
 #This program will calculate the Area and perimeter of a triangle with 3 given sides as well as determine whether it is a real triangle or not.
 
 #Two imported libraries to use a couple of functions.
@@ -22,18 +23,19 @@ a, b, c =  sides.split()
 a = float(a)
 b = float(b)
 c = float(c)
-S = (a + b + c)/2
-S = float(S)
-Perimeter = (a + b + c)
-print({a, b, c,})
-#Herons formula for area
-Area = math.sqrt(S*(S-a)*(S-b)*(S-c))
-#printing the results
-print("The area of the triangle is: ", Area)
-print("Semi Perimeter = ", S)
-print("The Perimeter of the triangle is:", Perimeter)
-#If statement to determine whether the triangle is real.
-if(a + b > c) or (a + c > b) or (b + c > a ):
+s = (a + b + c)/2
+s = float(s)
+perimeter = (a + b + c)
+if(a + b > c) and (a + c > b) and (b + c > a ):
     print("This triangle is real.")
+    area = math.sqrt(s*(s-a)*(s-b)*(s-c))
+    #printing the results
+    print("The area of the triangle is: ", area)
+    print("Semi Perimeter = ", S)
+    print("The Perimeter of the triangle is:", perimeter)
+    #If statement to determine whether the triangle is real.
 else:
     print("This is not a real triangle.")
+print({a, b, c,})
+#Herons formula for area
+
