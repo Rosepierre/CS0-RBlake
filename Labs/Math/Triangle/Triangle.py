@@ -25,12 +25,13 @@ c = float(c)
 S = (a + b + c)/2
 S = float(S)
 Perimeter = (a + b + c)
-print(a, b, c, S)
+print(a, b, c,)
 #Herons formula for area
 #Remember you can't square root a negative so the formula doesn't work for every triangle
 Area = math.sqrt(S*(S-a)*(S-b)*(S-c))
 #printing the results
 print("The area of the triangle is: ", Area)
+print("Semi Perimeter = ", S)
 print("The Perimeter of the triangle is:", Perimeter)
 #If statement to determine whether the triangle is real.
 if(a + b > c) or (a + c > b) or (b + c > a ):
