@@ -31,8 +31,9 @@ if(a + b > c) and (a + c > b) and (b + c > a ):
     area = math.sqrt(s*(s-a)*(s-b)*(s-c))
     #printing the results
     print("The area of the triangle is: ", area)
-    print("Semi Perimeter = ", S)
+    print("Semi Perimeter = ", s)
     print("The Perimeter of the triangle is:", perimeter)
+    print({a, b, c,})
     #If statement to determine whether the triangle is real.
 else:
     print("This is not a real triangle.")
