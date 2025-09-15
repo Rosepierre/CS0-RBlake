@@ -15,7 +15,7 @@ print("Welcome to my program, this program is for calculating the Area and the P
 time.sleep(3)
 
 #storing the input.
-sides = input("Please enter 3 sides of the triangle: ")
+sides = input("Please enter 3 sides of the triangle all seperated by spaces: ")
 #split the input into seperate variable.
 a, b, c =  sides.split()
 #floating data to use for math.
@@ -25,9 +25,8 @@ c = float(c)
 S = (a + b + c)/2
 S = float(S)
 Perimeter = (a + b + c)
-print(a, b, c,)
+print({a, b, c,})
 #Herons formula for area
-#Remember you can't square root a negative so the formula doesn't work for every triangle
 Area = math.sqrt(S*(S-a)*(S-b)*(S-c))
 #printing the results
 print("The area of the triangle is: ", Area)
