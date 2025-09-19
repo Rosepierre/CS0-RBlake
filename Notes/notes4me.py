@@ -49,4 +49,3 @@ def solution(name: str):
     return ans #passes the answer back onto the calling function
                #our global main program
 main()
-

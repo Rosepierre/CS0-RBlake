@@ -23,7 +23,7 @@ def main():
     # store the returned result into ans variable
     ans = answer(data)
     # FIXME 2: print the result
-    print(f"Thank you, {ans}, and Farewell!")
+    print(ans)
 
 
 def read_data() -> str:
@@ -46,7 +46,7 @@ def answer(data: str) -> str:
       str: twilight output
     """
     # FIXME 5: create the output as asked and store it into ans variable
-    ans = str(data)
+    ans = (f"Thank you, {str(data)}, and farewell!")
     return ans
 
 

@@ -14,15 +14,24 @@ def test_answer():
     expected = "Thank you, Alice, and farewell!"
     assert ans == expected, f"Expected: {expected}, but got: {ans}"
     ans = main.answer("Bob")
-    expected = "Thank you, Bob and farewell!"  # FIXME 5: fix the expected output
+    expected = "Thank you, Bob, and farewell!"  # FIXME 5: fix the expected output
     assert ans == expected, f"Expected: {expected}, but got: {ans}"
     # FIXME 6: add a new test case to test your answer function
     ans = main.answer("Johnathan")
     expected = "Thank you, Johnathan, and farewell!"
     assert ans == expected, f"Expected: {expected} , but got: {ans}"
     # FIXME 7: add a new test case to test your answer function
+    ans = main.answer("John Python")
+    expected = "Thank you, John Python, and farewell!"
+    assert ans == expected, f"Expected: {expected} , but got: {ans}"
     # FIXME 8: add a new test case to test your answer function
+    ans = main.answer("Jane Python")
+    expected = "Thank you, Jane Python, and farewell!"
+    assert ans == expected, f"Expected: {expected} , but got: {ans}"
     # FIXME 9: add a new test case to test your answer function
+    ans = main.answer("Jimothy Linux")
+    expected = "Thank you, Jimothy Linux, and farewell!"
+    assert ans == expected, f"Expected: {expected} , but got: {ans}"
     print("All test cases passed...", file=sys.stderr)
 
 

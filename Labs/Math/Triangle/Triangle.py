@@ -28,6 +28,7 @@ s = float(s)
 perimeter = (a + b + c)
 if(a + b > c) and (a + c > b) and (b + c > a ):
     print("This triangle is real.")
+    #Herons formula for area
     area = math.sqrt(s*(s-a)*(s-b)*(s-c))
     #printing the results
     print("The area of the triangle is: ", area)
@@ -37,6 +38,5 @@ if(a + b > c) and (a + c > b) and (b + c > a ):
     #If statement to determine whether the triangle is real.
 else:
     print("This is not a real triangle.")
-print({a, b, c,})
-#Herons formula for area
+
 
