@@ -19,10 +19,10 @@ def main():
     """Main function that solves the problem.
     """
     data = read_data()
-    # FIXME 1: Call answer function passing data as an argument
+    # FIXED 1: Call answer function passing data as an argument
     # store the returned result into ans variable
     ans = answer(data)
-    # FIXME 2: print the result
+    # FIXED 2: print the result
     print(ans)
 
 
@@ -31,9 +31,9 @@ def read_data() -> str:
     Returns:
       str: data read from std input
     """
-    # FIXME 3: read and store the input line into data variable
+    # FIXED 3: read and store the input line into data variable
     data = input()
-    # FIXME 4: return data
+    # FIXED 4: return data
     return data
     pass
 
@@ -45,12 +45,12 @@ def answer(data: str) -> str:
     Returns:
       str: twilight output
     """
-    # FIXME 5: create the output as asked and store it into ans variable
+    # FIXED 5: create the output as asked and store it into ans variable
     ans = (f"Thank you, {str(data)}, and farewell!")
     return ans
 
 
 if __name__ == "__main__":
-    # FIXME 10: call main function
+    # FIXED 10: call main function
     main()
     pass

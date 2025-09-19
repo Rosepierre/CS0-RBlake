@@ -70,3 +70,13 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: |https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Math/Circle%20Lab/Circlelab.py |
 | Notes: | qux |
+
+## Lab #3
+| Name | Value |
+| --- | --- |
+| Name: |Last Problem |
+| Description: | Function and test cases for said function|
+| Due Date: | 9/22/25 |
+| Status: | Finished |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/LastProblem/main.py  https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/LastProblem/Test.py |
+| Notes: | qux |
