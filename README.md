@@ -80,3 +80,13 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/LastProblem/main.py  https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/LastProblem/Test.py |
 | Notes: | qux |
+
+## Lab #3b
+| Name | Value |
+| --- | --- |
+| Name: |Bijele |
+| Description: | Split and map inputs and check data.|
+| Due Date: | 9/27/25 |
+| Status: | Finished |
+| Location: |  |
+| Notes: | qux |
