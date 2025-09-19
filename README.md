@@ -88,5 +88,5 @@ ________________________________________________________________________________
 | Description: | Split and map inputs and check data.|
 | Due Date: | 9/27/25 |
 | Status: | Finished |
-| Location: |  |
+| Location: |  https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Bijele/Bijele.py |
 | Notes: | qux |
