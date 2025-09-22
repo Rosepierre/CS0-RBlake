@@ -22,11 +22,12 @@ ________________________________________________________________________________
 ## Homework #2
 | Name | Value |
 | --- | --- |
-| Name: | Triangle |
+| Name: | Triangle and R2|
 | Description: | Calculate the Area of a triangle with 3 given sides |
 | Due Date: | 9/16/25 |
 | Status: | FINISHED |
-| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Math/Triangle/Triangle.py |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Math/Triangle/Triangle.py
+ r2: https://github.com/Rosepierre/CS0-RBlake/blob/main/r2/r2.py |
 | Notes: | qux |
 _______________________________________________________________________________________________________________
 # Labs
