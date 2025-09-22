@@ -25,7 +25,7 @@ import sys
 
 
 def main():
-    line = input("Please enter the two numbers you wish to add: ")
+    line = input()
     # split the data into two numbers
     a, b = line.split()
     # check to see if the data is split correctly
