@@ -91,3 +91,13 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: |  https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Bijele/Bijele.py |
 | Notes: | qux |
+
+## Lab #4a
+| Name | Value |
+| --- | --- |
+| Name: |Two Stones |
+| Description: | Determine even or odd stones to tell who the winner is|
+| Due Date: | 9/30/25 |
+| Status: | Finished |
+| Location: |   |
+| Notes: | qux |
