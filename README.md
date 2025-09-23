@@ -99,5 +99,5 @@ ________________________________________________________________________________
 | Description: | Determine even or odd stones to tell who the winner is|
 | Due Date: | 9/30/25 |
 | Status: | Finished |
-| Location: |   |
+| Location: |  https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/twostones/twostonesmain.py |
 | Notes: | qux |
