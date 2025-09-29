@@ -1,7 +1,7 @@
 ##
 # Circle - Basic Math - Homework
-# Updated By: FIXME1
-# Date: FIXME2
+# Updated By: Roger Blake
+# Date: 9/18/20
 # CSCI 110
 #
 # This program prompts user to enter radius of a circle and calculates and displays area
