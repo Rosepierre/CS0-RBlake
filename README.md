@@ -101,3 +101,13 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: |  https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/twostones/twostonesmain.py |
 | Notes: | qux |
+
+## Lab #5
+| Name | Value |
+| --- | --- |
+| Name: |Loops |
+| Description: | Loopgers|
+| Due Date: | 10/3/25 |
+| Status: | Finished |
+| Location: | |
+| Notes: | qux |
