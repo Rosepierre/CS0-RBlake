@@ -116,8 +116,8 @@ ________________________________________________________________________________
 | Name | Value |
 | --- | --- |
 | Name: |Loops |
-| Description: | Loopgers|
+| Description: | Prints triangles and a square based on numbered input|
 | Due Date: | 10/3/25 |
 | Status: | Finished |
-| Location: | |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Loops/loops.py |
 | Notes: | qux |
