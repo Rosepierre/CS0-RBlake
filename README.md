@@ -29,6 +29,16 @@ ________________________________________________________________________________
 | Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Math/Triangle/Triangle.py
  r2: https://github.com/Rosepierre/CS0-RBlake/blob/main/r2/r2.py |
 | Notes: | qux |
+
+## Homework #3
+| Name | Value |
+| --- | --- |
+| Name: | Functions |
+| Description: | simple calculatotion functions|
+| Due Date: | 10/3/25 |
+| Status: | FINISHED |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Functions/function.py |
+| Notes: | qux |
 _______________________________________________________________________________________________________________
 # Labs
 ## Lab #1
