@@ -39,6 +39,17 @@ ________________________________________________________________________________
 | Status: | FINISHED |
 | Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Functions/function.py |
 | Notes: | qux |
+
+
+## Homework #4
+| Name | Value |
+| --- | --- |
+| Name: | Conditionals |
+| Description: | Passes in 5 numbers to do different calculations with a test function to make sure the program works.|
+| Due Date: | 10/8/25 |
+| Status: | FINISHED |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Conditionals/Conditionals.py|
+| Notes: | qux |
 _______________________________________________________________________________________________________________
 # Labs
 ## Lab #1
