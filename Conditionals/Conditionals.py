@@ -3,7 +3,6 @@
 import math
 
 def add_func(num1, num2, num3, num4, num5):
-    global sum_numb
     sum_numb = num1 + num2 + num3 + num4 + num5
     return sum_numb
 
@@ -11,7 +10,8 @@ def multiplication_func(num1, num2, num3, num4, num5):
     product = num1 * num2 * num3 * num4 * num5
     return product
 
-def average_func(sum_numb):
+def average_func(num1, num2, num3, num4, num5):
+    sum_numb = add_func(num1, num2, num3, num4, num5)
     average = sum_numb/5 
     return average
 
@@ -88,7 +88,7 @@ def main():
 
     print(f"The sum of the numbers is: {add_func(num1, num2, num3, num4, num5)}")
     print(f"The product of the numbers is: {multiplication_func(num1, num2, num3, num4, num5)}")
-    print(f"The average of the numbers is: {average_func(sum_numb)}")
+    print(f"The average of the numbers is: {average_func(num1, num2, num3, num4, num5)}")
     print(f"The largest value of the numbers is: {max_func(num1, num2, num3, num4, num5)}")
     print(f"The smallest value of the numbers is: {min_func(num1, num2, num3, num4, num5)}")
 
