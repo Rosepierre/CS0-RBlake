@@ -50,6 +50,16 @@ ________________________________________________________________________________
 | Status: | FINISHED |
 | Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Conditionals/Conditionals.py|
 | Notes: | qux |
+
+## Homework #5
+| Name | Value |
+| --- | --- |
+| Name: | Loop Guess the Number |
+| Description: | IS a guess the number game which gives you 6 attempts to guess a number and has a play again loop.|
+| Due Date: | 10/17/25 |
+| Status: | FINISHED |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Guess%20the%20number/Guess.py |
+| Notes: | qux |
 _______________________________________________________________________________________________________________
 # Labs
 ## Lab #1
