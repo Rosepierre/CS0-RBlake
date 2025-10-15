@@ -21,6 +21,9 @@ mission to rescue the captive Chancellor....
 
 def rots_opening(stdscr):
     curses.curs_set(0) #Hides the cursor
+    curses.start_color() #enables color
+    curses.init_pair(1, curses.COLOR_YELLOW, curses.COLOR_BLACK) # Initialize color pair
+    stdscr.attron(curses.color_pair(1)) # Set the color pair for the text
     stdscr.clear() #Clears the Screen
     stdscr.nodelay(True) #does not wait for user input
     stdscr.timeout(100) #refreshes every 100 miliseconds
@@ -48,8 +51,9 @@ def rots_opening(stdscr):
         if pos_y + len(lines) < 0:
             break
 
-        time.sleep(1)
+        time.sleep(1) #controls the speed of the scroll
 
+    stdscr.attroff(curses.color_pair(1)) # Turn off the color pair
     stdscr.addstr(height - 1, 0, "Press any key to exit...")
     stdscr.nodelay(False)
     stdscr.getkey()
