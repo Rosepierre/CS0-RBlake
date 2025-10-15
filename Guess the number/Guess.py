@@ -1,6 +1,10 @@
 #Roger Blake
 #A program that generates a random number and the user has to guess it.
 import random
+import os
+
+# Clears screen
+os.system('cls' if os.name == 'nt' else 'clear')
 
 def game(name):
     random_number = random.randint(1, 20)
