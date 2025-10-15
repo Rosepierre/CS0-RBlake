@@ -59,7 +59,7 @@ def hasUpperCase(phrase):
 
 
 def hasDigit(phrase):
-    # FIXME1: return True if phrase has at least 1 digit, false otherwise
+    # FIXED: return True if phrase has at least 1 digit, false otherwise
     for i in phrase:
         if i.isdigit():
             return True
@@ -68,7 +68,7 @@ def hasDigit(phrase):
 
 
 def hasSymbol(phrase):
-    # FIXME2: return True if phrase has at least one of these symbols: ~!@#$%
+    # FIXED: return True if phrase has at least one of these symbols: ~!@#$%
     symbols = "~!@#$%"
     for ch in phrase:
         if ch in symbols:
@@ -97,19 +97,19 @@ def main():
         else:
             print('{} does not have an upper case character.'.format(phrase))
 
-        # FIXME3
+        # Fixed
         # print if the phrase has a lower case character by calling the proper function
         if hasLowerCase(phrase):
             print('{} has a lower case character.'.format(phrase))
         else:
             print('{} does not have a lower case character.'.format(phrase))
-        # FIXME4
+        # FIXED
         # print if the phrase has a digit by calling the proper function
         if hasDigit(phrase):
             print('{} has a digit.'.format(phrase))
         else:
             print('{} does not have a digit.'.format(phrase))
-        # FIXME5
+        # FIXED
         # print if the phrase has a symbol by calling the proper function
         if hasSymbol(phrase):
             print('{} has one of these ~!@#$%, symbols'.format(phrase))
