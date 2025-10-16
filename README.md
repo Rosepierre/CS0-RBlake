@@ -142,3 +142,13 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Loops/loops.py |
 | Notes: | qux |
+
+## Lab #6 EXTRA CREDIT
+| Name | Value |
+| --- | --- |
+| Name: |Palindromes |
+| Description: | Determines whether or not an input word or phrase is a palindrome|
+| Due Date: | 10/17/25 |
+| Status: | Finished |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Palindrome/Palindrome.py |
+| Notes: | Unable to get turtle to work on the codespace do to Tkinter. |
