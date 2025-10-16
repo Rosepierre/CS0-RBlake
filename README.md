@@ -152,3 +152,24 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Palindrome/Palindrome.py |
 | Notes: | Unable to get turtle to work on the codespace do to Tkinter. |
+
+## Lab #6 
+| Name | Value |
+| --- | --- |
+| Name: |Strings |
+| Description: | Tells user the given properties of a string|
+| Due Date: | 10/17/25 |
+| Status: | Finished |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Strings/strings.py |
+| Notes: | qux |
+
+
+## Lab #6b
+| Name | Value |
+| --- | --- |
+| Name: |Simon says |
+| Description: | reads an input and plays simon says with that input only doing what simon says to do.|
+| Due Date: | 10/17/25 |
+| Status: | Finished |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Simon%20says/simon.py|
+| Notes: | qux |
