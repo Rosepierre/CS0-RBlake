@@ -54,12 +54,12 @@ def testcase():
     expected = 945.0
     assert ans == expected, f"Expected: {expected}, but got: {ans}"
 
-    sum_numb = 50.0
-    ans = average_func(sum_numb)
+
+    ans = average_func(1, 9, 5, 15, 20)
     expected = 10.0
     assert ans == expected, f"Expected: {expected}, but got: {ans}"
-    sum_numb = 25.0
-    ans = average_func(sum_numb)
+   
+    ans = average_func(4, 6, 7, 3, 5)
     expected = 5.0
     assert ans == expected, f"Expected: {expected}, but got: {ans}"
 
