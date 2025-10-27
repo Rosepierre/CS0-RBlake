@@ -32,7 +32,7 @@ def test():
     assert ans == expected, f"Expected: {expected}, but got: {ans}"
     
     ans = fbi(["zjksadkdsasad", "zdl;ksdjfbia;lkj", "fbia;ldjqwlkej", "fda;sjlkfbifdjk;lfds", "fdakjldsfkjasl;kjfbiew"])
-    expected = [2, 3, 4 , 5]
+    expected = [2, 3, 4, 5]
     assert ans == expected, f"Expected: {expected}, but got: {ans}"
     
     ans = fbi(["aslka;sasdjlk", ";asflkjarh66;", "fbia;ldjqwstsrfsalkej", "rsglrkjrteys", "bndkelsrkrnl"])
@@ -43,6 +43,6 @@ def test():
     expected = []
     assert ans == expected, f"Expected: {expected}, but got: {ans}"
     print("Above numbers are the test case answers, test cases have been passed...")
-    
+
 test()
 fbi(text)
