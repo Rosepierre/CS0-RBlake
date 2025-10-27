@@ -60,7 +60,17 @@ ________________________________________________________________________________
 | Status: | FINISHED |
 | Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Guess%20the%20number/Guess.py |
 | Notes: | qux |
-_______________________________________________________________________________________________________________
+___________
+## Homework #6
+| Name | Value |
+| --- | --- |
+| Name: | Avion |
+| Description: | Takes inputs and puts them into a list, to then find if Fbi is in any of the lines.|
+| Due Date: | 10/27/25 |
+| Status: | FINISHED |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Avion/avion.py |
+| Notes: | qux |
+__________________________________________________________________________________________________________________________
 # Labs
 ## Lab #1
 | Name | Value |
