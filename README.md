@@ -183,3 +183,14 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Simon%20says/simon.py|
 | Notes: | qux |
+
+## Lab #7 and 7b
+| Name | Value |
+| --- | --- |
+| Name: |Lists and Blackfriday |
+| Description: | plays with sorting and managing lists|
+| Due Date: | 10/31/25 |
+| Status: | Finished |
+| Location: |Black Friday: https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Lists/Blackfriday.py 
+|Lists: https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Lists/Lists.py
+| Notes: | qux |
