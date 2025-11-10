@@ -194,3 +194,14 @@ ________________________________________________________________________________
 | Location: |Black Friday: https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Lists/Blackfriday.py 
 |Lists: https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Lists/Lists.py
 | Notes: | qux |
+
+## Lab #8 and 8-2
+| Name | Value |
+| --- | --- |
+| Name: | Dictionary and cups
+| Description: | Finds different things related to states depending on the input.|
+| Due Date: | 11/11/25 |
+| Status: | Finished |
+| Location: https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Dictionary/dict.py
+Cups: https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Dictionary/cups.py|
+| Notes: | qux |
