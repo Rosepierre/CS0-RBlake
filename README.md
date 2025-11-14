@@ -203,5 +203,15 @@ ________________________________________________________________________________
 | Due Date: | 11/11/25 |
 | Status: | Finished |
 | Location: https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Dictionary/dict.py
-Cups: https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Dictionary/cups.py|
+Cups: https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Dictionary/cups.py |
 | Notes: | qux |
+
+## Lab #9
+| Name | Value |
+| --- | --- |
+| Name: Fileio| 
+| Description: | Name / write and output a new file |
+| Due Date: | 11/18/25 |
+| Status: | Finished |
+| Location: https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Fileio/fileio.py |
+| Notes: | |
