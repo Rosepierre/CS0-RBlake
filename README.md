@@ -70,6 +70,16 @@ ___________
 | Status: | FINISHED |
 | Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/Avion/avion.py |
 | Notes: | qux |
+
+## Homework #7
+| Name | Value |
+| --- | --- |
+| Name: | Falling Apart |
+| Description: |I genuinely have no idea how to describe this project|
+| Due Date: | 11/10/25 |
+| Status: | FINISHED |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/FallingApart/fallingapart.py |
+| Notes: | qux |
 __________________________________________________________________________________________________________________________
 # Labs
 ## Lab #1
