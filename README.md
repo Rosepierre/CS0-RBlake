@@ -80,7 +80,17 @@ ___________
 | Status: | FINISHED |
 | Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/FallingApart/fallingapart.py |
 | Notes: | qux |
-__________________________________________________________________________________________________________________________
+
+## Homework #9
+| Name | Value |
+| --- | --- |
+| Name: | anewalpha |
+| Description: |Dictionary that replaces inputs with the cypher.|
+| Due Date: | 11/21/25 |
+| Status: | FINISHED |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/anewalphabet/anewalphabet.py |
+| Notes: | qux |
+___________________________________________________________________________________________________________________
 # Labs
 ## Lab #1
 | Name | Value |
