@@ -90,6 +90,16 @@ ___________
 | Status: | FINISHED |
 | Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/anewalphabet/anewalphabet.py |
 | Notes: | qux |
+
+## Final Project
+| Name | Value |
+| --- | --- |
+| Name: | 2048 |
+| Description: | animated 2048 game |
+| Due Date: | 12/1/25 |
+| Status: | FINISHED |
+| Location: | https://github.com/Rosepierre/CS0-RBlake/blob/main/FinalProject/final.py |
+| Notes: | qux |
 ___________________________________________________________________________________________________________________
 # Labs
 ## Lab #1
