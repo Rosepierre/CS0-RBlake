@@ -245,3 +245,13 @@ Cups: https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Dictionary/cups.py
 | Status: | Finished |
 | Location: https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/Fileio/fileio.py |
 | Notes: | |
+
+## Lab #11
+| Name | Value |
+| --- | --- |
+| Name: OOP| 
+| Description: | Use a class to find information about a circle |
+| Due Date: | 11/27/25 |
+| Status: | Finished |
+| Location: https://github.com/Rosepierre/CS0-RBlake/blob/main/Labs/oop/oop.py|
+| Notes: | Finished |
